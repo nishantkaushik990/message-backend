@@ -1,0 +1,9 @@
+@url=http://localhost:4001
+
+
+###
+GET {{url}}/nishant
+
+
+###
+GET {{url}}/user/seeMessage
